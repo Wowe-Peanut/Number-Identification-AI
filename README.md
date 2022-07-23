@@ -3,9 +3,12 @@ Inspired and guided by 3b1b's video on how backpropagation machine learning work
 
 Feel free to use my code however you want (MIT License) but I cannot think of a reason why anyone would want to use it... it's that bad.
 
+
 Training and Testing Data Used: http://yann.lecun.com/exdb/mnist/
 
 3b1b Video (1/4): https://www.youtube.com/watch?v=aircAruvnKk&ab_channel=3Blue1Brown
+
+Libraries Used: Numpy (Matrix Math), mnist (Importing Training and Testing Data), and Pickle (Storing Trained Weights and Baises for later)
 
 
 
